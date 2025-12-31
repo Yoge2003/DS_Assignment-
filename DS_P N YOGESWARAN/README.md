@@ -103,6 +103,3 @@ DS_YOGESWARAN/
 ## Notes
 
 This project emphasizes **analytical thinking, data interpretation, and behavioral finance concepts** rather than model building. The focus is on understanding *why* traders behave differently under varying sentiment conditions and how that knowledge can inform better decision-making.
-
-
-Just tell me 👍
